@@ -2,6 +2,7 @@
 Basic server - client methods for both Windows and Linux
 ## Description
 Implement communication between two processes with socket, applying TCP and UDP
+![Execute](source/result.png)
 ## WorkFlow
 - **TCP Server** 
 1. Create a socket
